@@ -4,7 +4,7 @@ Prompts lanzados, en orden, con modelo y herramienta. Mismo texto en las dos cop
 
 ## Prompt 1 — copia CON harness
 
-**Modelo:** PON-AQUI-EL-MODELO-REAL
+**Modelo:** Sonnet 5
 **Herramienta:** Claude Code
 
 ```
@@ -23,7 +23,7 @@ Criterios de aceptación:
 
 ## Prompt 2 — copia CON harness (respuesta a su pregunta)
 
-**Modelo:** PON-AQUI-EL-MODELO-REAL
+**Modelo:** Sonnet 5
 **Herramienta:** Claude Code
 
 ```
@@ -34,7 +34,7 @@ css plano
 
 ## Prompt 3 — copia SIN harness
 
-**Modelo:** PON-AQUI-EL-MODELO-REAL
+**Modelo:** Sonnet 5
 **Herramienta:** Claude Code
 
 ```
