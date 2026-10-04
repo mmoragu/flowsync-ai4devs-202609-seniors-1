@@ -22,14 +22,27 @@ Borra el ejemplo de abajo cuando escribas el primero.
 
 ## Prompt 1
 
-**Modelo:** Opus 1M xHigh
+**Modelo:** Sonnet 5
 **Herramienta:** Claude Code
 
 ```
-Este es el ejemplo. Bórralo.
+   Pantalla de inicio de sesión
 
-El prompt va aquí dentro, entero y con sus saltos de línea,
-para que se sepa dónde empieza y dónde acaba.
+   Como usuario registrado de FlowSync, quiero poder iniciar sesión con mi email y contraseña desde la pantalla principal, para acceder a mi cuenta.
+
+   Criterios de aceptación:
+   - El formulario pide email y contraseña.
+   - Si las credenciales son correctas, el usuario accede (se le indica de alguna forma que ha entrado).
+   - Si son incorrectas, se le muestra un mensaje de error claro.
+   - El botón de enviar se deshabilita mientras se procesa la petición.   Pantalla de inicio de sesión
+
+   Como usuario registrado de FlowSync, quiero poder iniciar sesión con mi email y contraseña desde la pantalla principal, para acceder a mi cuenta.
+
+   Criterios de aceptación:
+   - El formulario pide email y contraseña.
+   - Si las credenciales son correctas, el usuario accede (se le indica de alguna forma que ha entrado).
+   - Si son incorrectas, se le muestra un mensaje de error claro.
+   - El botón de enviar se deshabilita mientras se procesa la petición.
 ```
 
-**Qué salió:** (opcional, una línea) funcionó a la primera / tuve que insistir / me inventó una ruta que no existe.
+**Qué salió:** funcionó a la primera
