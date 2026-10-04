@@ -15,6 +15,6 @@ Sin terminar: no probé en navegador el login de la copia sin harness.
 
 ## Parte B
 
-1. **Piezas:** `CLAUDE.md` y un hook `PostToolUse` que corre `npm run lint` en `frontend/`. La que más me costó: FRASE_TUYA
+1. **Piezas:** `CLAUDE.md` y un hook `PostToolUse` que corre `npm run lint` en `frontend/`. La que más me costó: ninguna de las dos piezas en sí; el rato se me fue en dejar el entorno listo (WSL, herramientas, Jira) y en decidir qué poner en el CLAUDE.md. Del hook de lint no comprobé que se disparase, solo que el lint pasa.
 2. **Primera diferencia:** la copia con harness me preguntó Tailwind o CSS plano y la pelada no preguntó nada. Lo vi en la terminal, mientras corría la sesión.
 3. **Escrito en el harness y no cumplido:** mi `CLAUDE.md` decía que los componentes de shadcn/ui se copian a `frontend/src/components/ui`, pero el proyecto no tiene shadcn ni Tailwind. El agente no siguió la regla: detectó que no encajaba y me preguntó. La regla estaba mal escrita por mi parte.
